@@ -1,4 +1,4 @@
-<center><img src="https://justmrnone.github.io/NeverEndingPong/logos/Conceptus1.png" height=65 title="Conceptus Group AB Logo"></center>
+<center><img src="https://justmrnone.github.io/NeverEndingPong/logos/Conceptus1.png" title="Conceptus Group AB Logo"></center>
 
 ## Conceptus Group AB / Städshop.se
 
