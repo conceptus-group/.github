@@ -21,6 +21,6 @@ We are committed to:
 
 ---
 
-💼 **För affärsförfrågningar, partnerskap eller support, vänligen besök vår webbplats eller kontakta oss på** [info@conceptus.se](mailto:info@conceptus.se).
+**För affärsförfrågningar, partnerskap eller support, vänligen besök vår webbplats eller kontakta oss på** [info@conceptus.se](mailto:info@conceptus.se).
 
-💼 **For business inquiries, partnerships, or support, please visit our website or contact us at** [info@conceptus.se](mailto:info@conceptus.se).
+**For business inquiries, partnerships, or support, please visit our website or contact us at** [info@conceptus.se](mailto:info@conceptus.se).
