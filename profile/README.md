@@ -20,6 +20,7 @@ We are committed to:
 
 
 ---
+💼⚡
 
 **För affärsförfrågningar, partnerskap eller support, vänligen besök vår webbplats eller kontakta oss på** [info@conceptus.se](mailto:info@conceptus.se).
 
