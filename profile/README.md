@@ -19,6 +19,8 @@ Vi strävar efter att:
 - Leverera förstklassig kundservice
 - Säkerställa snabb och pålitlig leverans
 
+---
+
 **Conceptus Group AB** is a Swedish company specializing in the distribution and retail of cleaning, hygiene, and consumable products. Through our online platform, [Städshop.se](https://stadshop.se), we serve individuals, businesses, and institutions with a wide range of high-quality cleaning supplies and equipment.
 
 We are committed to:
