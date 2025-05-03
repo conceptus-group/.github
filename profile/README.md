@@ -7,7 +7,7 @@
 -->
 
 <p align="center">
-  <img src="https://justmrnone.github.io/NeverEndingPong/logos/Conceptus-Art-Bgremover.png" alt="Conceptus Group AB Logo" title="Conceptus Group AB Logo">
+  <img src="https://justmrnone.github.io/NeverEndingPong/logos/Conceptus-Art-Bgremover2.png" alt="Conceptus Group AB Logo" title="Conceptus Group AB Logo">
 </p>
 
 ## Conceptus Group AB
