@@ -1,4 +1,6 @@
-<center><img src="https://justmrnone.github.io/NeverEndingPong/logos/Conceptus1.png" title="Conceptus Group AB Logo"></center>
+<p align="center">
+  <img src="https://justmrnone.github.io/NeverEndingPong/logos/Conceptus1.png" alt="Conceptus Group AB Logo" title="Conceptus Group AB Logo" width="200">
+</p>
 
 ## Conceptus Group AB
 
