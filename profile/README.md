@@ -4,10 +4,12 @@
 <p align="center">
   <img src="https://justmrnone.github.io/NeverEndingPong/logos/Conceptus-Art.jpg" alt="Conceptus Group AB Logo" title="Conceptus Group AB Logo">
 </p>
+-->
+
 <p align="center">
   <img src="https://justmrnone.github.io/NeverEndingPong/logos/Conceptus-Art-Bgremover.png" alt="Conceptus Group AB Logo" title="Conceptus Group AB Logo">
 </p>
--->
+
 ## Conceptus Group AB
 
 **Conceptus Group AB** är ett svenskt företag som specialiserar sig på distribution och försäljning av städ-, hygien- och förbrukningsprodukter. Genom vår e-handelsplattform, [Städshop.se](https://stadshop.se), levererar vi högkvalitativa städprodukter och utrustning till privatpersoner, företag och offentliga verksamheter.
