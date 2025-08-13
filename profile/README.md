@@ -4,11 +4,15 @@
 <p align="center">
   <img src="https://justmrnone.github.io/NeverEndingPong/logos/Conceptus-Art.jpg" alt="Conceptus Group AB Logo" title="Conceptus Group AB Logo">
 </p>
--->
 
 <p align="center">
   <img src="https://justmrnone.github.io/NeverEndingPong/logos/Conceptus-Art-Bgremover2.png" alt="Conceptus Group AB Logo" title="Conceptus Group AB Logo">
 </p>
+-->
+<p align="center">
+  <img src="https://justmrnone.github.io/NeverEndingPong/logos/Conceptus1.png" alt="Conceptus Group AB Logo" title="Conceptus Group AB Logo" width="200">
+</p>
+
 
 ## Conceptus Group AB
 
