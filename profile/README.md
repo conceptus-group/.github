@@ -38,4 +38,4 @@ We are committed to:
 
 -->
 
-**For business inquiries, partnerships, or support, please contact us at** [info@conceptus.se](mailto:info@conceptus.se).
+**For business inquiries, partnerships, or support, please contact us at** [it@conceptus.se](it@conceptus.se).
